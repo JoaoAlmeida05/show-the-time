@@ -1,0 +1,25 @@
+
+body{
+    background: black;
+}
+
+.hour{
+    color: green;
+    width: 40%;
+    height: 170px;
+    margin-top: 5%;
+    margin-left: 30%;
+    font-family: 'Orbitron';
+    font-size: 120px; 
+}
+
+.date{
+    color: green;
+    margin-top: 20px;
+    margin-left: 15%;    
+    height: 140px;
+    font-family: 'Orbitron';
+    font-size: 120px;
+} 
+
+
